@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="turn">%1$s\'s Turn</string>
+    <string name="winner">%1$s\'s Won</string>
+    <string name="draw">It\'s a Draw</string>
+    <string name="resetButton">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="timer">Timer = %1$s</string>
+    <string name="Crosswins">X wins = %1$s</string>
+    <string name="Naughtwins">O wins = %1$s</string>
+    <string name="Crosswinner">Xs won the game</string>
+    <string name="Naughtwinner">Os won the game</string>
+</resources>
